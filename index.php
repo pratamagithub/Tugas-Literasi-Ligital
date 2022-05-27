@@ -53,17 +53,7 @@
 				<!-- /category nav -->
 
 				<!-- menu nav -->
-				<div class="menu-nav">
-					<span class="menu-header">Menu <i class="fa fa-bars"></i></span>
-					<ul class="menu-list">
-						<li><a href="#">Beranda</a></li>
-						<li><a href="#">Barang</a></li>
-						<li><a href="#">Transaksi</a></li>
-						<li><a href="#">Denda</a></li>
-						<li><a href="#">Ulasan</a></li>
-					</ul>
-				</div>
-				<!-- menu nav -->
+				
 			</div>
 		</div>
 		<!-- /container -->
